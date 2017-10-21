@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-21T22:04:13+08:00</updated><id>http://localhost:4000/</id><title type="html">Wiki2gether</title><subtitle></subtitle><entry><title type="html">Leave your time, friend review here :)</title><link href="http://localhost:4000/2013/12/20/book-list-of-2013.html" rel="alternate" type="text/html" title="Leave your time, friend review here :)" /><published>2013-12-20T00:00:00+08:00</published><updated>2013-12-20T00:00:00+08:00</updated><id>http://localhost:4000/2013/12/20/book-list-of-2013</id><content type="html" xml:base="http://localhost:4000/2013/12/20/book-list-of-2013.html">&lt;p&gt;#chage as you wish @yoyo!!&lt;/p&gt;
+&lt;h2 id=&quot;pro-git&quot;&gt;Pro Git&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-pro-git.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://git-scm.com/book&quot;&gt;阅读地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-little-mongodb-book&quot;&gt;The Little Mongodb Book&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-the-little-mongodb-book.png&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown&quot;&gt;阅读地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这本书非常之简洁，读起来非常易懂，其实这还归功于MongoDB的简洁。NoSQL与MySQL最大的区别在于它是为一些特定的场景设计的，如MongoDB、Redis、Cassandra等。MongoDB是其中更加通用的一个方案，从MySQL往MongoDB转，几乎不需要太大变化。&lt;/p&gt;
+
+&lt;h2 id=&quot;白帽子讲web安全&quot;&gt;白帽子讲Web安全&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-the-safety-of-web-by-white-hat.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/10546925/&quot;&gt;购买地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;浪潮之巅&quot;&gt;浪潮之巅&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-on-top-of-tides.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/6709783/&quot;&gt;购买地址&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="读书" /><summary type="html">#chage as you wish @yoyo!! Pro Git</summary></entry></feed>

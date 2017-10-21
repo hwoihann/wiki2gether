@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiki2gether</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Oct 2017 22:04:13 +0800</pubDate>
+    <lastBuildDate>Sat, 21 Oct 2017 22:04:13 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Leave your time, friend review here :)</title>
+        <description>&lt;p&gt;#chage as you wish @yoyo!!&lt;/p&gt;
+&lt;h2 id=&quot;pro-git&quot;&gt;Pro Git&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-pro-git.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://git-scm.com/book&quot;&gt;阅读地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-little-mongodb-book&quot;&gt;The Little Mongodb Book&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-the-little-mongodb-book.png&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown&quot;&gt;阅读地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这本书非常之简洁，读起来非常易懂，其实这还归功于MongoDB的简洁。NoSQL与MySQL最大的区别在于它是为一些特定的场景设计的，如MongoDB、Redis、Cassandra等。MongoDB是其中更加通用的一个方案，从MySQL往MongoDB转，几乎不需要太大变化。&lt;/p&gt;
+
+&lt;h2 id=&quot;白帽子讲web安全&quot;&gt;白帽子讲Web安全&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-the-safety-of-web-by-white-hat.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/10546925/&quot;&gt;购买地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;浪潮之巅&quot;&gt;浪潮之巅&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-on-top-of-tides.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/6709783/&quot;&gt;购买地址&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Dec 2013 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2013/12/20/book-list-of-2013.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/12/20/book-list-of-2013.html</guid>
+        
+        
+        <category>读书</category>
+        
+      </item>
+    
+  </channel>
+</rss>
