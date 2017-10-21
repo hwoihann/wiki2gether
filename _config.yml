@@ -4,7 +4,7 @@ email: hh_plans@yeah.net
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: http://yansu.org # the base hostname & protocol for your site
+url: https://hwoihann.github.io/wiki2gether # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 # author: Su Yan
 
