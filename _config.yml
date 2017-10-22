@@ -3,7 +3,7 @@ title: Wiki2gether
 email: hh_plans@yeah.net
 description: "" # this means to ignore newlines until "baseurl:"
 
-baseurl: "/wiki2gether/" # the subpath of your site, e.g. /blog/
+baseurl: "/wiki2gether" # the subpath of your site, e.g. /blog/
 url: http://hwoihann.github.io/wiki2gether # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 # author: Su Yan
@@ -16,13 +16,14 @@ recent_num: 20
 # Social account
 # twitter: masonsuyan
 # weibo: suyan0830
- github: hwoihann
+github: hwoihann
 # instagram: suyan0830
 # linkedin: suyan0830
 
 # avatar and Favicon
-avatar: /assets/icon/dna_128px_1128396_easyicon.net.ico
 favicon: /assets/icon/water_element_48px_1168422_easyicon.net.ico
+# avatar: /assets/icon/dna_128px_1128396_easyicon.net.ico
+avatar: /assets/icon/flower_128px_1128399_easyicon.net.ico
 
 # disqus config
 # disqus:
