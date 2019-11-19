@@ -42,7 +42,7 @@ mathjax: disabled
 sass:
   style: compressed
 
-plugin:
+plugin_dir:
   - jemoji
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
 gems:

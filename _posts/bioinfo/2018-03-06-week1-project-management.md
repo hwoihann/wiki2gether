@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "week1# Bioinformatics Data Skills"
+title: "week#1 Bioinformatics Data Skills"
 category: bioinfo
 keywords: 阅读,书单,2013
 
@@ -14,9 +14,13 @@ Start from Part II. Prerequisites: Essential Skills for Getting Started with a B
 | week1 |  Managing a Bioinformatics Project (2) |
 
 # Setting Up and Managing a Bioinformatics Project
-In this chapter, we’ll look at some best practices in organizing your bioinformatics project directories and how to digitally document your work using plain-text Markdown files. We’ll also see why project directory organization isn’t just about being tidy, but is essential to the way by
+ - organizing your bioinformatics project directories 
+ - how to digitally document your work using plain-text Markdown files.
+ - why project directory organization isn’t just about being tidy, but is essential to the way by
 which tasks are automated across large numbers of files (which we routinely do in
 bioinformatics)
+
+---
 
 - Project Directories and Directory Structures
 - Project Documentation
@@ -25,6 +29,8 @@ bioinformatics)
 - Markdown for Project Notebooks
 - Markdown Formatting Basics
 - Using Pandoc to Render Markdown to HTML
+
+---
 
 ## 1. Project Directories and Directory Structures
 Regardless of the organization scheme, a good bioinformatician will always document everything extensively and use clear filenames that can be parsed by a computer, two points we’ll come to in a bit.
@@ -37,6 +43,8 @@ between collaborators and decreases reproducibility.
 
 mkdir data
 mkdir data/seqs scripts analysis
+
+---
 
 This is a sensible project layout scheme. Here, data/ contains all raw and intermediate
 data. As we’ll see, data-processing steps are treated as separate subprojects in this
@@ -58,9 +66,12 @@ There’s a vast amount of lurking complexity in bioinformatics work: complex wo
 This should include full command lines (copied and pasted) that are run through the shell that generate data or intermediate results. Even if you use the default values in software, be sure to write these values down; later versions of the program may use different default values.  
 
 __In general, any command that produces results used in your work needs to be documented somewhere.__
+
 ### Track: Where, When, and How
  - Document the origin of all data in your project directory
-“Data” doesn’t just refer to your project’s experimental data—it’s any data that programs use to create output. This includes files your collaborators send you from their separate analyses, gene annotation tracks, reference genomes, and so on. 
+“Data” doesn’t just refer to your project’s experimental data—it’s any data that programs use to create output. __This includes files your collaborators send you from their separate analyses, gene annotation tracks, reference genomes, and so on.__ 
+
+
 Need to keep track of where data was downloaded from, who gave it to you,
 and any other relevant information.
 
@@ -106,7 +117,7 @@ won’t have to email you to ask what files are or where they are).
 
 
 ## 3. Use Directories to Divide Up Your Project into Subprojects
-ake-home point is: leverage directories to help stay organized
+Take-home point is: leverage directories to help stay organized
 
 Creating directories to logically separate subprojects (e.g., sequencing data quality
 improvement, aligning, analyzing alignment results, etc.) can simplify complex
@@ -115,7 +126,7 @@ projects and help keep files organized.
 ## 4. Organizing Data to Automate File Processing Tasks
 ## 5. Markdown for Project Notebooks
 ## 6. Markdown Formatting Basics
-## 7. Using Pandoc to Render Markdown to HTML
+`pandoc --from markdown --to html notebook.md > output.html`
 
 # Remember in heart
 __Part 1, Ideology: Data Skills for Robust and Reproducible Bioinformatics__

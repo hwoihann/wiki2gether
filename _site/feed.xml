@@ -1,4 +1,242 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/wiki2gether/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/wiki2gether/" rel="alternate" type="text/html" /><updated>2017-10-22T21:47:36+08:00</updated><id>http://localhost:4000/wiki2gether/</id><title type="html">Wiki2gether</title><subtitle></subtitle><entry><title type="html">Leave your time, friend review here :)</title><link href="http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013.html" rel="alternate" type="text/html" title="Leave your time, friend review here :)" /><published>2013-12-20T00:00:00+08:00</published><updated>2013-12-20T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013.html">&lt;p&gt;#chage as you wish @yoyo!!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/wiki2gether/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/wiki2gether/" rel="alternate" type="text/html" /><updated>2018-03-07T20:30:12+08:00</updated><id>http://localhost:4000/wiki2gether/</id><title type="html">Wiki2gether</title><subtitle></subtitle><entry><title type="html">hahaha</title><link href="http://localhost:4000/wiki2gether/2018/03/07/btest.html" rel="alternate" type="text/html" title="hahaha" /><published>2018-03-07T00:00:00+08:00</published><updated>2018-03-11T03:40:31+08:00</updated><id>http://localhost:4000/wiki2gether/2018/03/07/btest</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2018/03/07/btest.html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Title&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;style&gt;
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;textarea id=&quot;source&quot;&gt;
+
+class: center, middle
+
+# Title
+
+---
+
+# Agenda
+
+1. Introduction
+2. Deep-dive
+3. ...
+
+---
+
+# Introduction
+
+    &lt;/textarea&gt;
+    &lt;script src=&quot;https://remarkjs.com/downloads/remark-latest.min.js&quot;&gt;
+    &lt;/script&gt;
+    &lt;script&gt;
+      var slideshow = remark.create();
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="definition" /><category term="癌症相关数据库专题" /><category term="菜鸟团周推" /><summary type="html">&amp;lt;!DOCTYPE html&amp;gt; Title class: center, middle # Title --- # Agenda 1. Introduction 2. Deep-dive 3. ... --- # Introduction</summary></entry><entry><title type="html">week1# Bioinformatics Data Skills</title><link href="http://localhost:4000/wiki2gether/2018/03/06/week1-project-management.html" rel="alternate" type="text/html" title="week1# Bioinformatics Data Skills" /><published>2018-03-06T00:00:00+08:00</published><updated>2018-03-06T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2018/03/06/week1-project-management</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2018/03/06/week1-project-management.html">&lt;p&gt;Start from Part II. Prerequisites: Essential Skills for Getting Started with a Bioinformatics Project
+| week | task |
+|——–|———————————|
+| week1 |  Managing a Bioinformatics Project (2) |&lt;/p&gt;
+
+&lt;h1 id=&quot;setting-up-and-managing-a-bioinformatics-project&quot;&gt;Setting Up and Managing a Bioinformatics Project&lt;/h1&gt;
+&lt;p&gt;In this chapter, we’ll look at some best practices in organizing your bioinformatics project directories and how to digitally document your work using plain-text Markdown files. We’ll also see why project directory organization isn’t just about being tidy, but is essential to the way by
+which tasks are automated across large numbers of files (which we routinely do in
+bioinformatics)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Project Directories and Directory Structures&lt;/li&gt;
+  &lt;li&gt;Project Documentation&lt;/li&gt;
+  &lt;li&gt;Use Directories to Divide Up Your Project into Subprojects&lt;/li&gt;
+  &lt;li&gt;Organizing Data to Automate File Processing Tasks&lt;/li&gt;
+  &lt;li&gt;Markdown for Project Notebooks&lt;/li&gt;
+  &lt;li&gt;Markdown Formatting Basics&lt;/li&gt;
+  &lt;li&gt;Using Pandoc to Render Markdown to HTML&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;1-project-directories-and-directory-structures&quot;&gt;1. Project Directories and Directory Structures&lt;/h2&gt;
+&lt;p&gt;Regardless of the organization scheme, a good bioinformatician will always document everything extensively and use clear filenames that can be parsed by a computer, two points we’ll come to in a bit.&lt;/p&gt;
+
+&lt;p&gt;When in doubt, explicit is always better than implicit when it comes to filenames, documentation, and writing code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;always use relative paths&lt;/strong&gt; 
+In contrast, absolute paths rely on your particular user account and directory structures details above the project directory level (not good). Using absolute paths leaves your work less portable
+between collaborators and decreases reproducibility.&lt;/p&gt;
+
+&lt;p&gt;mkdir data
+mkdir data/seqs scripts analysis&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This is a sensible project layout scheme. Here, data/ contains all raw and intermediate
+data. As we’ll see, data-processing steps are treated as separate subprojects in this
+data/ directory. I keep general project-wide scripts in a scripts/ directory. If scripts
+contain many files (e.g., multiple Python modules), they should reside in their own
+subdirectory. Isolating scripts in their own subdirectory also keeps project directories
+tidy while developing these scripts (when they produce test output files).
+Bioinformatics projects contain many smaller analyses—for example, analyzing the
+quality of your raw sequences, the aligner output, and the final data that will produce
+figures and tables for a paper. I prefer keeping these in a separate analysis/ directory,
+as it allows collaborators to see these high-level analyses without having to dig deeper
+into subproject directories.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-project-documentation&quot;&gt;2. Project Documentation&lt;/h2&gt;
+&lt;p&gt;There’s a vast amount of lurking complexity in bioinformatics work: complex workflows, multiple files, countless program parameters, anddifferent software versions. The best way to prevent this complexity from causingproblems is to document everything extensively.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Document your methods and workflows
+This should include full command lines (copied and pasted) that are run through the shell that generate data or intermediate results. Even if you use the default values in software, be sure to write these values down; later versions of the program may use different default values.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;In general, any command that produces results used in your work needs to be documented somewhere.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;track-where-when-and-how&quot;&gt;Track: Where, When, and How&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Document the origin of all data in your project directory
+“Data” doesn’t just refer to your project’s experimental data—it’s any data that programs use to create output. This includes files your collaborators send you from their separate analyses, gene annotation tracks, reference genomes, and so on. 
+Need to keep track of where data was downloaded from, who gave it to you,
+and any other relevant information.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Document when you downloaded data
+It’s important to include when the data was downloaded, as the external data
+source (such as a website or server) might change in the future.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Record data version information
+Many databases have explicit release numbers, version numbers, or names (e.g.,
+TAIR10 version of genome annotation for Arabidopsis thaliana, or Wormbase
+release WS231 for Caenorhabditis elegans). It’s important to record all version
+information in your documentation, including minor version numbers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe how you downloaded the data
+For example, did you use MySQL to download a set of genes? Or the UCSC
+Genome Browser? These details can be useful in tracking down issues like when
+data is different between collaborators.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Document the versions of the software that you ran
+This may seem unimportant, but remember the example from “Reproducible
+Research” on page 6 where my colleagues and I traced disagreeing results down
+to a single piece of software being updated. These details matter. Good bioinfor‐
+matics software usually has a command-line option to return the current version.
+Software managed with a version control system such as Git has explicit identifi‐
+ers to every version, which can be used to document the precise version you ran
+(we’ll learn more about this in Chapter 5). If no version information is available,
+a release date, link to the software, and download date will suffice&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of this information is best stored in plain-text README files. Plain text can easily
+be read, searched, and edited directly from the command line, making it the perfect
+choice for portable and accessible README files. 
+Where should you keep your README files? A good approach is to keep README
+files in each of your project’s main directories. These README files don’t necessarily
+need to be lengthy, but they should at the very least explain what’s in this directory
+and how it got there. 
+For example, a data/README file would contain metadata about your data files in
+the data/ directory. Even if you think you could remember all relevant information
+about your data, it’s much easier just to throw it in a README file (and collaborators
+won’t have to email you to ask what files are or where they are).&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;touch README data/README&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-use-directories-to-divide-up-your-project-into-subprojects&quot;&gt;3. Use Directories to Divide Up Your Project into Subprojects&lt;/h2&gt;
+&lt;p&gt;ake-home point is: leverage directories to help stay organized&lt;/p&gt;
+
+&lt;p&gt;Creating directories to logically separate subprojects (e.g., sequencing data quality
+improvement, aligning, analyzing alignment results, etc.) can simplify complex
+projects and help keep files organized.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-organizing-data-to-automate-file-processing-tasks&quot;&gt;4. Organizing Data to Automate File Processing Tasks&lt;/h2&gt;
+&lt;h2 id=&quot;5-markdown-for-project-notebooks&quot;&gt;5. Markdown for Project Notebooks&lt;/h2&gt;
+&lt;h2 id=&quot;6-markdown-formatting-basics&quot;&gt;6. Markdown Formatting Basics&lt;/h2&gt;
+&lt;h2 id=&quot;7-using-pandoc-to-render-markdown-to-html&quot;&gt;7. Using Pandoc to Render Markdown to HTML&lt;/h2&gt;
+
+&lt;h1 id=&quot;remember-in-heart&quot;&gt;Remember in heart&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Part 1, Ideology: Data Skills for Robust and Reproducible Bioinformatics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Why Bioinformatics? Biology’s Growing Data&lt;/li&gt;
+  &lt;li&gt;Learning Data Skills to Learn Bioinformatics&lt;/li&gt;
+  &lt;li&gt;New Challenges for Reproducible and Robust Research&lt;/li&gt;
+  &lt;li&gt;Reproducible Research&lt;/li&gt;
+  &lt;li&gt;Robust Research and the Golden Rule of Bioinformatics&lt;/li&gt;
+  &lt;li&gt;Adopting Robust and Reproducible Practices Will Make Your Life Easier, Too&lt;/li&gt;
+  &lt;li&gt;Recommendations for Robust Research&lt;/li&gt;
+  &lt;li&gt;Pay Attention to Experimental Design&lt;/li&gt;
+  &lt;li&gt;Write Code for Humans, Write Data for Computers&lt;/li&gt;
+  &lt;li&gt;Let Your Computer Do the Work For You&lt;/li&gt;
+  &lt;li&gt;Make Assertions and Be Loud, in Code and in Your Methods&lt;/li&gt;
+  &lt;li&gt;Test Code, or Better Yet, Let Code Test Code&lt;/li&gt;
+  &lt;li&gt;Use Existing Libraries Whenever Possible&lt;/li&gt;
+  &lt;li&gt;Treat Data as Read-Only&lt;/li&gt;
+  &lt;li&gt;Spend Time Developing Frequently Used Scripts into Tools&lt;/li&gt;
+  &lt;li&gt;Let Data Prove That It’s High Quality&lt;/li&gt;
+  &lt;li&gt;Recommendations for Reproducible Research&lt;/li&gt;
+  &lt;li&gt;Release Your Code and Data&lt;/li&gt;
+  &lt;li&gt;Document Everything&lt;/li&gt;
+  &lt;li&gt;Make Figures and Statistics the Results of Scripts&lt;/li&gt;
+  &lt;li&gt;Use Code as Documentation&lt;/li&gt;
+  &lt;li&gt;Continually Improving Your Bioinformatics Data Skills&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="bioinfo" /><summary type="html">Start from Part II. Prerequisites: Essential Skills for Getting Started with a Bioinformatics Project | week | task | |——–|———————————| | week1 | Managing a Bioinformatics Project (2) |</summary></entry><entry><title type="html">幕布，大纲整理工具</title><link href="http://localhost:4000/wiki2gether/2017/10/24/outliner-mubu.html" rel="alternate" type="text/html" title="幕布，大纲整理工具" /><published>2017-10-24T00:00:00+08:00</published><updated>2017-10-24T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2017/10/24/outliner-mubu</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2017/10/24/outliner-mubu.html">&lt;p&gt;&lt;a href=&quot;http://git-scm.com/book&quot;&gt;网站地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;扫一扫注册
+&lt;img src=&quot;https://mubu.com/qrcode/service?data=https://mubu.com/inv/396561&amp;amp;size=130&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Apps" /><summary type="html">网站地址</summary></entry><entry><title type="html">Example Post using Keynote Layout</title><link href="http://localhost:4000/wiki2gether/2015/07/09/js-module-7day.html" rel="alternate" type="text/html" title="Example Post using Keynote Layout" /><published>2015-07-09T00:00:00+08:00</published><updated>2015-07-09T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2015/07/09/js-module-7day</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2015/07/09/js-module-7day.html">&lt;blockquote&gt;
+  &lt;p&gt;下滑这里查看更多内容&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;7月9日，我在公司内部进行了名为「JavaScript 模块化七日谈」分享，并将该 Slides 分享到了微博上。出乎意料地，这篇微博先后被 @JS小组 @尤小右 @寸志 等近 200 人转发，阅读达到 10w，获得了还不错的评价。&lt;/p&gt;
+
+&lt;p&gt;于是，我决定将它重新发到我的博客上，并为它专门制作了适用于 Keynote 展示文稿的新布局。它能自动根据屏幕大小/旋转以一定比例填充屏幕，你也可以直接点击下方链接在新页面打开，来获得更好的、沉浸式的全屏体验&lt;/p&gt;
+
+&lt;h3 id=&quot;watch-slides-&quot;&gt;&lt;a href=&quot;http://huangxuan.me/js-module-7day&quot;&gt;Watch Slides →&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://huangxuan.me/js-module-7day/attach/qrcode.png&quot; width=&quot;350&quot; height=&quot;350&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small class=&quot;img-hint&quot;&gt;你也可以通过扫描二维码在手机上观看&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;这个 Web Slides 开源在&lt;a href=&quot;https://github.com/Huxpro/js-module-7day&quot;&gt;我的 Github 上&lt;/a&gt;，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork &amp;amp; pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目&lt;/p&gt;
+
+&lt;h3 id=&quot;catalog&quot;&gt;Catalog&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;第一日 上古时期 &lt;strong&gt;&lt;em&gt;Module?&lt;/em&gt;&lt;/strong&gt; 从设计模式说起&lt;/li&gt;
+  &lt;li&gt;第二日 石器时代 &lt;strong&gt;&lt;em&gt;Script Loader&lt;/em&gt;&lt;/strong&gt; 只有封装性可不够，我们还需要加载&lt;/li&gt;
+  &lt;li&gt;第三日 蒸汽朋克 &lt;strong&gt;&lt;em&gt;Module Loader&lt;/em&gt;&lt;/strong&gt; 模块化架构的工业革命&lt;/li&gt;
+  &lt;li&gt;第四日 号角吹响 &lt;strong&gt;&lt;em&gt;CommonJS&lt;/em&gt;&lt;/strong&gt; 征服世界的第一步是跳出浏览器&lt;/li&gt;
+  &lt;li&gt;第五日 双塔奇兵 &lt;strong&gt;&lt;em&gt;AMD/CMD&lt;/em&gt;&lt;/strong&gt; 浏览器环境模块化方案&lt;/li&gt;
+  &lt;li&gt;第六日 精灵宝钻 &lt;strong&gt;&lt;em&gt;Browserify/Webpack&lt;/em&gt;&lt;/strong&gt; 大势所趋，去掉这层包裹！&lt;/li&gt;
+  &lt;li&gt;第七日 王者归来 &lt;strong&gt;&lt;em&gt;ES6 Module&lt;/em&gt;&lt;/strong&gt; 最后的战役&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;</content><author><name>Hux</name></author><category term="前端开发" /><category term="JavaScript" /><summary type="html">下滑这里查看更多内容</summary></entry><entry><title type="html">Example Post using Keynote Layout</title><link href="http://localhost:4000/wiki2gether/2015/07/09/erew.html" rel="alternate" type="text/html" title="Example Post using Keynote Layout" /><published>2015-07-09T00:00:00+08:00</published><updated>2015-07-09T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2015/07/09/erew</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2015/07/09/erew.html">&lt;blockquote&gt;
+  &lt;p&gt;下滑这里查看更多内容&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;第六日  &lt;strong&gt;&lt;em&gt;Browserify/Webpack&lt;/em&gt;&lt;/strong&gt; 大势所趋，去掉这层包裹！&lt;/li&gt;
+  &lt;li&gt;第七日  &lt;strong&gt;&lt;em&gt;ES6 Module&lt;/em&gt;&lt;/strong&gt; 最后的战役&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;</content><author><name>Hux</name></author><category term="前端开发" /><category term="JavaScript" /><summary type="html">下滑这里查看更多内容</summary></entry><entry><title type="html">Leave your time, friend review here :)</title><link href="http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013.html" rel="alternate" type="text/html" title="Leave your time, friend review here :)" /><published>2013-12-20T00:00:00+08:00</published><updated>2013-12-20T00:00:00+08:00</updated><id>http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013</id><content type="html" xml:base="http://localhost:4000/wiki2gether/2013/12/20/book-list-of-2013.html">&lt;p&gt;#chage as you wish @yoyo!!&lt;/p&gt;
 &lt;h2 id=&quot;pro-git&quot;&gt;Pro Git&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://7u2ho6.com1.z0.glb.clouddn.com/book-pro-git.jpg&quot; alt=&quot;cover&quot; /&gt;&lt;/p&gt;
